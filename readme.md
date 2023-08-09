@@ -37,3 +37,7 @@ The server folder contains a node.js server using [express](https://expressjs.co
 
 The server also includes a `scripts` subfolder. It includes a `generate.js` file, that can be run to create new Private key - Public Key/Address pairs. These pairs (as well as the amount of currency they include) must be manually added on the both the `balances` and `privateKeys` objects, inside `index.js`. 
 
+## Demo
+
+![](./client/public/demo.gif)
+
